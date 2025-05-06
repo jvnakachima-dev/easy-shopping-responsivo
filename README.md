@@ -20,7 +20,8 @@ Design moderno e adaptável para diferentes tamanhos de tela 📱💻
 
 ## 📸 Imagem do projeto
 
-<img src="https://github.com/jvnakachima-dev/easy-shopping-responsivo/blob/main/assets/Beige%20Minimalist%20Mockup%20Instagram%20Post.png?raw=true">
+![image](https://github.com/user-attachments/assets/7e5dd69b-9ca2-4074-a5fd-0dcf17a50701)
+
 
 ---
 
